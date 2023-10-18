@@ -1,11 +1,3 @@
-/*
-  Name- Adeeb Ahmed
-  Course-MCA(SE)
-  Semester-1
-  Subject-Data Structures And Algorithm
-  Practical-2.Various Operations On Double Single And Circular Linked List.
-*/
-
 #include<stdio.h>
 #include<stdlib.h>
 struct Node {
